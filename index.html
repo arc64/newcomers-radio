@@ -3,7 +3,8 @@ layout: default
 ---
 
 <div class="home">
- <div markdown="1"># hello</div>
+
+{% capture content %}{% include content.md %}{% endcapture %} {{ content | markdownify }}
  <!--  <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
