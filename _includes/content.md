@@ -25,10 +25,14 @@ While these examples may help conceptualize the system, **Newcomer's Radio does 
 
 ### User Roles
 Our platform addresses four critical roles.
-* **Discoverer**: A new user looks for media on a central program list organized geographically and by language.  They can easily share links to channels and programs via Facebook and Whatsapp, or share phone numbers that link to
-* **Listener**: Once they've found a channel of interest, a listener can phone in to a channel or stream via the web interface or a link they found on Facebook.
-* **Participant**: Participants can join the conversation through their browser or by phone.
-* **Producer*: Someone interested in creating a channel or program can do so with their phone, and administer the conversation, even to the point of running a complex call-in show.
+
+**Discoverer**: A new user looks for media on a central program list organized geographically and by language.  They can easily share links to channels and programs via Facebook and Whatsapp, or share phone numbers that link to
+
+**Listener**: Once they've found a channel of interest, a listener can phone in to a channel or stream via the web interface or a link they found on Facebook.
+
+**Participant**: Participants can join the conversation through their browser or by phone.
+
+**Producer**: Someone interested in creating a channel or program can do so with their phone, and administer the conversation, even to the point of running a complex call-in show.
 
 ### Technical Stack
 Some key elements of the technical stack include Freeswitch, Mumble, and Python-web.  Communications are routed through a switch that allows mixed-platform conferencing, more structured hosting, and hooks to sonic inputs and outputs.
