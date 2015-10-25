@@ -7,6 +7,7 @@ Newcomers to Europe often have smart phones, and use Facebook and Whatsapp inten
 Mixing telephony and Internet communication, NR is a **voice platform** that **scales from a small voice chatroom to large call-in radio show**.  Conversations are organized across multiple channels, and programs within those channels.  To host, listen, or participate in a program requires only a phone, but audio can be drawn from archives or, in some situations, distributed through podcasts or FM radio.  Links to channels and programs are easily shared and spread.
 
 ## What is it? By example.
+
 ### Scenario 1 (outside-in):
 An employee at an processing center spends their whole day explaining the immigration process to hundreds of newcomers.  They can record a looped message explaining the steps a newcomer must go through, advertise the "channel" through posters around the processing center, and then take questions through a "call-in" format the answers of which can be listened to by anyone on the channel.
 
@@ -14,10 +15,10 @@ An employee at an processing center spends their whole day explaining the immigr
 ### Scenario 2 (inside-in):
 The new community is facing challenges finding work and earning money.  A community organizer starts a channel dedicated to bringing together NGOs, potential employers, job-seekers in the community, and others to discuss labor practices and norms in Germany.  Every day they have a different guest who can provide a perspective on work.  Callers describe their experiences seeking and finding work, ask questions, and work through problems during the program.
 
-## Scenario 3 (inside-out):
+### Scenario 3 (inside-out):
 A German-born journalist is interested in communicating some of the key experiences and challenges faced by newcomers.  Together with a German and Arabic speaking Iraqi, they cohost a multilingual call-in program about challenges and experiences in the new community.  Every week the journalist gets a fresh series of stories about where migrants came from, how they arrived, and what they hope to do next.  Meanwhile, the community experiences the catharsis of being able to speak and share.
 
-## Scenario 4 (inside-across):
+### Scenario 4 (inside-across):
 Community organizers who deal with food security issues in Munich, Berlin, and across German often face similar problems.  They agree to create daily one hour channel for new or challenging situations.  They can compare notes, analyze new policies, and assist each other in real time.  This helps them face their challenges but also builds solidarity.  The program is accessible and recorded in an archive.
 
 While these examples may help conceptualize the system, **Newcomer's Radio does not proscribe particular shows or formats**.  Rather, we expect that appropriate formats and topics will be derived by the community itself, and those who seek to exchange information with members of the community.  It is a communications platform with affordances designed for the new community.
@@ -33,6 +34,13 @@ Our platform addresses four critical roles.
 Some key elements of the technical stack include Freeswitch, Mumble, and Python-web.  Communications are routed through a switch that allows mixed-platform conferencing, more structured hosting, and hooks to sonic inputs and outputs.
 
 ## Who are we?
+
+* Annabel Church ([@annabelchurch](https://twitter.com/annabelchurch))
+* Chris Csikszentmihalyi ([@csik](https://twitter.com/csik))
+* Abiol Deng ([@AbiolDeng](https://twitter.com/AbiolDeng))
+* Arno Ernst
+* Alex Morega ([@mgax](https://twitter.com/mgax))
+* Pit Schultz
 
 
 ## Do you want to collaborate with us? Let us know your email
